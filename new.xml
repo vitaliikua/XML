@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<personal_info>
+	<id>1</id>
+	<firstName>Vitalii</firstName>
+	<lastName>Kostenko</lastName>
+	<age>34</age>
+	<pets>0</pets>
+	<future_desired_salary>5.000</future_desired_salary>
+</personal_info>

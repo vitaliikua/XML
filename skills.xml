@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<personal_skills>
+	<skill>
+		<id>1</id>
+		<name>Testing documentation: check-list, test-case, bug report</name>
+	</skill>
+	<skill>
+		<id>2</id>
+		<name>Mobile testing</name>
+	</skill>
+	<skill>
+		<id>3</id>
+		<name>Terminal</name>
+	</skill>
+	<skill>
+		<id>4</id>
+		<name>Git</name>
+	</skill>
+	<skill>
+		<id>5</id>
+		<name>Client-server architecture</name>
+	</skill>
+	<skill>
+		<id>6</id>
+		<name>HTTP methods</name>
+	</skill>
+	<skill>
+		<id>7</id>
+		<name>API testing</name>
+	</skill>
+	<skill>
+		<id>8</id>
+		<name>DevTolls</name>
+	</skill>
+	<skill>
+		<id>9</id>
+		<name>Logs</name>
+	</skill>
+	<skill>
+		<id>10</id>
+		<name>Charles, Fiddler</name>
+	</skill>
+	<skill>
+		<id>11</id>
+		<name>SQL</name>
+	</skill>
+	<skill>
+		<id>12</id>
+		<name>Jmeter</name>
+	</skill>
+	<skill>
+		<id>13</id>
+		<name>SCRUM, Kanban</name>
+	</skill>
+	<skill>
+		<id>14</id>
+		<name>Python</name>
+	</skill>
+	<skill>
+		<id>15</id>
+		<name>CV creating</name>
+	</skill>
+	<skill>
+		<id>16</id>
+		<name>Interview passing</name>
+	</skill>
+	<skill>
+		<id>17</id>
+		<name>Commercial practice</name>
+	</skill>
+</personal_skills>

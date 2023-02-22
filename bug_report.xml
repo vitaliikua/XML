@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+	<Project_name></Project_name>
+	<ID></ID>
+	<Summary></Summary>
+	<Category></Category>
+	<Priority></Priority>
+	<Severity></Severity>
+	<Status></Status>
+	<Assigned_to></Assigned_to>
+	<Tester></Tester>
+	<Enviroment></Enviroment>
+	<Platform></Platform>
+	<Reproducibility></Reproducibility>
+	<Preconditions></Preconditions>
+	<Steps></Steps>
+	<Actual_results></Actual_results>
+	<Expected_results></Expected_results>
+	<Workaround></Workaround>
+	<Comments></Comments>
+	<Attachments></Attachments>
+</bug_report>
